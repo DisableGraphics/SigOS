@@ -1,0 +1,9 @@
+K:\Nueva carpeta\Repository\SigOS\SigOS\bin\Release\netcoreapp2.0\cosmos\SigOS.deps.json
+K:\Nueva carpeta\Repository\SigOS\SigOS\bin\Release\netcoreapp2.0\cosmos\SigOS.dll
+K:\Nueva carpeta\Repository\SigOS\SigOS\bin\Release\netcoreapp2.0\cosmos\SigOS.pdb
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.csprojAssemblyReference.cache
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.csproj.CoreCompileInputs.cache
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.AssemblyInfoInputs.cache
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.AssemblyInfo.cs
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.dll
+K:\Nueva carpeta\Repository\SigOS\SigOS\obj\Release\netcoreapp2.0\cosmos\SigOS.pdb
